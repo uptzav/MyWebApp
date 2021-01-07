@@ -12,7 +12,7 @@ import android.webkit.WebViewClient;
 public class MainActivity extends AppCompatActivity {
 
     private static String DIRECTION
-            = "https://depor.com/";
+            = "http://laboratorio4mvczavala.azurewebsites.net/Encuesta";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
